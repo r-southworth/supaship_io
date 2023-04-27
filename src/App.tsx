@@ -8,7 +8,7 @@ import  Welcome  from './Welcome'
 import  NavBar  from './NavBar'
 import  MessageBoard  from './MessageBoard'
 import  PostView  from './PostView'
-import  AllPosts  from './Allposts'
+import  AllPosts  from './AllPosts'
 import { SupashipUserInfo, useSession } from './use-session'
 
 const router = createBrowserRouter([
